@@ -2,6 +2,6 @@ Hello
 Hello Git
 Hello Git
 Hello Git
-Hello Git    master
+Hello Git     hot
 By NiuTengfei
 Hot-fix
